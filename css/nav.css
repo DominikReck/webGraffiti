@@ -1,0 +1,76 @@
+nav{
+box-shadow:3px 4px 24px 0 rgba(0,0,0,.07);
+margin-top:2px;
+background:#1B1B1B;
+font-family:'Rock Salt', cursive;
+}
+.nav ul{
+width:100%;overflow:hidden;list-style:none
+}
+.nav-button:hover{
+	cursor:pointer
+	}
+.navigation{
+	;width:100%;position:relative;
+	}
+	.nav a{
+		color:white;text-transform:uppercase;text-decoration:none
+		}
+		body .nav .nav-menu li a{
+			display:inline-block;padding:15px 25px;color:white;font-size:24px;font-weight:700;
+			}.nav.yoga .nav-menu li.active a{color:	white;text-decoration:underline;
+				}
+				.nav.yoga .nav-menu li a:hover{
+					color:white;text-decoration:underline;
+					}.nav.yoga .nav-toggled{
+						min-height:36px;border-radius:6px
+						}
+						.nav.yoga .nav-toggled-controls{
+							display:block;height:36px;color:white;text-align:left;position:relative
+							}
+							.nav.yoga .nav-toggled-title{
+								position:relative;top:9px;left:15px;font-size:16px
+								}
+								.nav.yoga .nav-button{
+									display:block;position:absolute;right:15px;top:8px
+									}
+									.nav.yoga .nav-button span
+									{
+									display:block;margin-top:4px;height:2px;background:white;width:24px
+									}
+									.nav-toggled-controls{
+									border-bottom:0 solid 	white
+									}.nav.yoga .nav-toggled ul li a{
+									display:block;width:100%;background-color:#1B1B1B;text-align:left;padding:10px 0 10px 15px;border-bottom:1px solid #444;text-align:center;font-size:16px;
+									-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box
+									}
+									.nav.yoga .nav-toggled ul li a:active{
+									background-color:#1B1B1B;color:	white;border-top:1px solid white;
+									}
+									.nav.yoga .nav-toggled ul li a:hover{
+									background:#B6B6B4;text-decoration:none;color:#1B1B1B;border-bottom:1px solid #1B1B1B;
+									}
+									.nav.yoga .nav-toggled ul li{
+									position:relative
+									}
+									.toggle-sm:after{
+									position:absolute;right:15px;top:10px;font-size:18px;line-height:25px
+									}
+									.nav .nav-menu{
+									text-align:center;overflow:visible;min-height:56px
+									}
+									.nav .nav-menu li{
+									display:inline-block;padding:0;margin:0!important;position:relative
+									}
+									.nav-button:hover{
+									cursor:pointer
+									}
+									.nav .nav-toggled ul{
+									display:none;margin:0;padding:0
+									}
+									.nav ul{
+									overflow:visible
+									}
+									body .nav .nav-menu li a{
+									padding:15px 30px
+								}

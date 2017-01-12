@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt); /*-- Navigation Font --*/
+@import url(http://fonts.googleapis.com/css?family=Source+Serif+Pro); /*-- Body Font --*/
+
+body{
+	background:#B6B6B4;
+	font-family: 'Source Serif Pro', serif;
+}
+h2{
+	font-family: 'Rock Salt', cursive;
+	text-align: center;
+	font-size: 175%;
+	color: 	#1B1B1B;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	padding: 6% 0 1% 0;
+}
+h3{
+	font-family: 'Rock Salt', cursive;
+	text-align: justify;
+	font-size: 125%;
+	color: 	#1B1B1B;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	padding: 8% 0 2% 3%;
+}
+p{
+	padding: 10px;
+	color: #1B1B1B;
+	text-align: justify;
+	text-indent: 2%;
+}
+dfn{
+	text-decoration: underline;
+	cursor: help;
+}
+.thumbnail{
+ width: 75%;
+ height:auto;
+ overflow: hidden;
+ -webkit-transition:all 0.5s ease;
+ -moz-transition:all 0.5s ease;
+ -ms-transition:all 0.5s ease;
+ o-transition:all 0.5s ease;
+ transition:all 0.5s ease;
+}
+.thumbnail:hover{
+ transform: scale(1.3);
+ -webkit-transform: scale(1.3);
+ -moz-transform: scale(1.3);
+ -ms-transform: scale(1.3);
+ -o-transform: scale(1.3);
+}
+figure{
+ margin: 5px;
+ max-width: 500px;
+ float: left;
+ }
+ figure img{
+ padding-right:10px;
+ width: 100%;
+}
+ nav{
+    position: fixed;
+    display: block;
+    background-color: #1B1B1B;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+footer {
+  font-family: 'Source Serif Pro', serif;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  padding: 4px;
+  background: #1B1B1B;
+  color: white;
+  }
+
+
+}
+.list-unstyled{
+	list-style-type: circle;
+	list-style-position: outside;
+	text-align: justify;
+	padding-left: 10px;
+	
+}
+.banner{
+	width: 100%;
+}
+.priklad{
+	width: 100%;
+}
+.historie{
+	width: 100%;
+	max-height: 500px;
+}
+.crew{
+	width: 100%;
+}
+.pomucky{
+	width: 100%;
+}
